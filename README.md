@@ -8,7 +8,7 @@
   <strong>Full Stack AI Application Developer</strong> 
 </p>
 
-I’m a **Super30 student** and a **MERN Stack Developer at The Bharat Scouts and Guides**. I build practical AI products, real-time systems, and reliable web experiences from idea to production.
+I’m currently a **Super30 student** and a **MERN Stack Developer at The Bharat Scouts and Guides**. I build practical AI products, real-time systems, and reliable web experiences from idea to production.
 
 <p align="center">
   <a href="https://www.deepanshu.live/">Portfolio</a> ·
